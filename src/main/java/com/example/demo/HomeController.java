@@ -8,6 +8,6 @@ public class HomeController {
 
 	@RequestMapping("/hello")
 	public String home(){
-		return "Welcome to spring boot Application";
+		return "Welcome  Application";
 	}
 }
